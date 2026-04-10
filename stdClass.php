@@ -30,6 +30,7 @@ $objLocation = (object) $arrLocation;
 
 echo $objLocation->address;
 echo "<br>";
+echo "<br>";
 print_r($objLocation);
 
 
