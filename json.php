@@ -40,6 +40,7 @@ $newArr = json_decode($newJson, true);
 
 echo "<br>";
 echo "<br>";
+echo "<br>";
 
 echo $newArr["country"];
 
